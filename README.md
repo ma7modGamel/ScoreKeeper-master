@@ -1,4 +1,7 @@
 # ScoreKeeper-master
-this app is explain
-#SPLASH SCREAN  and Timer (count Down)
-you can foun screenShots andlink download in WIKI
+
+![alt text](https://github.com/ma7modGamel/ScoreKeeper-master/blob/master/SplashScrean.PNG)
+
+![alt text](https://github.com/ma7modGamel/ScoreKeeper-master/blob/master/Screan2.PNG)
+
+
